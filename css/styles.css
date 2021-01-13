@@ -17,3 +17,16 @@ font-family: 'Poppins', sans-serif;
 .woman-jacket-card img{
     width: 100%;
 }
+.bottom-banner{
+    background-color: rgb(34, 26, 26);
+    color: rgb(253, 253, 253);
+}
+#line{
+    font-size:x-small;
+    text-align: center;
+    margin-top: 15%;
+}
+.footer{
+    text-align: center;
+    font-size: xx-small;
+}
