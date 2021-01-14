@@ -1,6 +1,6 @@
 body{
-    font-family: 'Noto Sans JP', sans-serif;
-font-family: 'Poppins', sans-serif;
+    font-family: 'Bebas Neue', cursive;
+    font-size: large;
 }
 
 .top-banner{
@@ -22,13 +22,13 @@ font-family: 'Poppins', sans-serif;
     color: rgb(253, 253, 253);
 }
 #line{
-    font-size:x-small;
+    font-size:small;
     text-align: center;
     margin-top: 15%;
 }
 .footer{
     text-align: center;
-    font-size: xx-small;
+    font-size: x-small;
 }
 #woman-jacket{
     font-weight: 900;
